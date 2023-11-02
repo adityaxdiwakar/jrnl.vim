@@ -2,6 +2,12 @@
 
 This is a fork for my personal settings. See the fork diff for what I changed.
 
+Some changes:
+- No more folding (preference, you can find that diff and revert it)
+- Using `cterm` instead of `gui` for colors (I only have 256 colors)
+- Conditional tag highlighting when they are in boxes (bug in upstream)
+- Support for `vim9` by using `NONE` instead of `none` on `hl`
+
 -----
 
 This is a syntax file for neovim and vim to support [jrnl](https://github.com/jrnl-org/jrnl)
