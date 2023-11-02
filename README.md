@@ -1,5 +1,9 @@
 # Syntax for jrnl files in vim
 
+This is a fork for my personal settings. See the fork diff for what I changed.
+
+-----
+
 This is a syntax file for neovim and vim to support [jrnl](https://github.com/jrnl-org/jrnl)
 files. It's intended to work on top of the built-in `markdown` syntax (it might also work
 with other markdown syntaxes, but I haven't tested it).
