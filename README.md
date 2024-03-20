@@ -41,7 +41,7 @@ syntax highlighting (left), and with this plugin installed (right).
   - `- [ ]` Empty checkbox with highlighted line
   - `- [x]` Checked box with greyed indented text
   - `- [i]` Info icon
-  - `- [i]` Question icon
+  - `- [?]` Question icon
   - `- [*]` Star icon
   - `- [!]` High priority item
   - `- [c]` Cancelled item (greyed out with an x instead of a check)
